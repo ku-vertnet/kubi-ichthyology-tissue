@@ -1,0 +1,63 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 150
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-06 ; Times: 1
+	Date: 2014-09-11 ; Times: 1
+	Date: 2014-09-15 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Adaptive Radiation" ; Times: 2
+	Query: "wetmorella" ; Times: 1
+	Query: ""KUIT" institutioncode:KU tissue:1" ; Times: 1
+	Query: "cyprinus carpio" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "SL" ; Times: 1
+	Query: "institutioncode:KU (KUI OR KUIT)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 122
+Total number of records retrieved from searches: 864
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 693
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 122
+Total number of records retrieved from searches: 864
+Number of download events that retrieved data from the resource: 24
+Total number of records downloaded: 832
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
