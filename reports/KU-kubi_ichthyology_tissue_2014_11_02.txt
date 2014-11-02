@@ -1,0 +1,82 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 170
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-11 ; Times: 2
+	Date: 2014-10-14 ; Times: 1
+	Date: 2014-10-15 ; Times: 1
+	Date: 2014-10-16 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-24 ; Times: 3
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardina pilchardus type:specimen tissue:1" ; Times: 1
+	Query: "Sardina type:specimen tissue:1" ; Times: 1
+	Query: "KU 29663" ; Times: 1
+	Query: "polyodon spathula institutioncode:KU" ; Times: 1
+	Query: "Lutjanus argentiventris" ; Times: 2
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "AN 830 institutioncode:KU" ; Times: 1
+	Query: "Synbranchus" ; Times: 1
+	Query: "LACM Ichthyology" ; Times: 1
+	Query: "3294 institutioncode:KU" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "institutioncode:KU (KUIT) tissue:1" ; Times: 1
+	Query: "nepal type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 166 download events in this period)
+Total number of records downloaded: 11 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-20 ; Times: 1
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "Lutjanus argentiventris" ; Times: 1
+	Query: "Sardina type:specimen" ; Times: 1
+	Query: "Sardinops type:specimen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 136
+Total number of records retrieved from searches: 1034
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 704
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 136
+Total number of records retrieved from searches: 1034
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 843
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
