@@ -1,0 +1,75 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-06 ; Times: 7
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "catalognumber:4998 institutioncode:ku" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 3
+	Query: "catalognumber:2165 institutioncode:ku" ; Times: 1
+	Query: "(Caiman) media:1" ; Times: 1
+	Query: "catalognumber:3870 institutioncode:ku" ; Times: 1
+	Query: "catalognumber:3871 institutioncode:ku" ; Times: 1
+	Query: "maulisia microlepis" ; Times: 1
+	Query: "vidua institutioncode:KU (tissue) tissue:1" ; Times: 1
+	Query: "St. Tammany Parish" ; Times: 1
+	Query: "Scutiger" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 298 download events in this period)
+Total number of records downloaded: 21 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Solomon" institutioncode:KU" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 187
+Total number of records retrieved from searches: 1241
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 327
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 217
+Total number of records retrieved from searches: 1384
+Number of download events that retrieved data from the resource: 41
+Total number of records downloaded: 1203
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
