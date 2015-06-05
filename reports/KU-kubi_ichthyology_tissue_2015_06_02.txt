@@ -1,0 +1,137 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 157
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 57
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-08 ; Times: 10
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-11 ; Times: 12
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 36
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1037 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:9660 institutioncode:KU tissue:1" ; Times: 2
+	Query: "catalognumber:9948 institutioncode:KU tissue:1" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "catalognumber:8858 institutioncode:KU tissue:1" ; Times: 1
+	Query: "pseudocarcharias" ; Times: 2
+	Query: "catalognumber:8884 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:10450 institutioncode:KU tissue:1" ; Times: 1
+	Query: "MCZ 3288" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "ku 217352" ; Times: 1
+	Query: "catalognumber:8792 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:9352 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:8814 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:4248 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:10261 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:8866 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:4697 institutioncode:KU tissue:1" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "catalognumber:2271 institutioncode:KU tissue:1" ; Times: 2
+	Query: "catalognumber:8850 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:6414 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:6775 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:6204 institutioncode:KU tissue:1" ; Times: 1
+	Query: "lacm fishes" ; Times: 1
+	Query: "catalognumber:4734 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:8688 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "Chrysochloris" ; Times: 1
+	Query: "catalognumber:9396 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Ammodytidae nhm" ; Times: 3
+	Query: "KU 1184 tissue:1" ; Times: 1
+	Query: "catalognumber:9610 institutioncode:KU tissue:1" ; Times: 1
+	Query: "ateleopodidae tissue:1" ; Times: 5
+	Query: "catalognumber:3226 institutioncode:ku" ; Times: 2
+	Query: "narcine brasiliensis" ; Times: 3
+	Query: "catalognumber:4293 institutioncode:KU tissue:1" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "catalognumber:4831 institutioncode:KU tissue:1" ; Times: 2
+	Query: "catalognumber:10218 institutioncode:KU tissue:1" ; Times: 1
+	Query: "canthigaster janthinoptera" ; Times: 4
+	Query: "ammodytidae tissue:1" ; Times: 3
+	Query: "catalognumber:6774 institutioncode:KU tissue:1" ; Times: 2
+	Query: "catalognumber:7091 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:8886 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:6183 institutioncode:KU tissue:1" ; Times: 1
+	Query: "LACM 1868" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "tissue:1 distance(location,geopoint(33.89474025320642,-80.5078125))<100000" ; Times: 1
+	Query: "catalognumber:6778 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:6623 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Stegastes fuscus" ; Times: 2
+	Query: "Catostomus catostomus tissue:1" ; Times: 1
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 976 download events in this period)
+Total number of records downloaded: 53 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 48
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pelamis" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 263
+Total number of records retrieved from searches: 1398
+Number of download events that retrieved data from the resource: 15
+Total number of records downloaded: 380
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 293
+Total number of records retrieved from searches: 1541
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 1256
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
