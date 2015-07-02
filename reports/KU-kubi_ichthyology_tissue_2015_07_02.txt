@@ -1,0 +1,125 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 220
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Italy ; Times: 6
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-09 ; Times: 4
+	Date: 2015-06-10 ; Times: 6
+	Date: 2015-06-11 ; Times: 5
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 3
+	Date: 2015-06-24 ; Times: 7
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 2
+	Date: 2015-06-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "9131 institutioncode:ku year >= 1997 year <= 1997" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "KU 5690" ; Times: 2
+	Query: "apogon apogonides" ; Times: 1
+	Query: "7348 tissue:1" ; Times: 2
+	Query: "Elasmobranchii media:1" ; Times: 6
+	Query: "Eucryphycus californicus" ; Times: 10
+	Query: "BPBM tissue:1" ; Times: 1
+	Query: "bonariensis brazil" ; Times: 1
+	Query: "161927" ; Times: 1
+	Query: "coris gaimard" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<68974" ; Times: 1
+	Query: "9939 institutioncode:KU tissue:1" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "6759 institutioncode:KU tissue:1" ; Times: 1
+	Query: "cavifrons institutioncode:KU" ; Times: 1
+	Query: "KU 31958" ; Times: 2
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "mitu year >= 1985 year <= 2015" ; Times: 1
+	Query: "lutjanus colorado" ; Times: 1
+	Query: "speciosus; belize" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<51797.83796376453" ; Times: 1
+	Query: "mitu mitu year >= 1985 year <= 2015" ; Times: 2
+	Query: "stateprovince:"arkansas" tissue:1" ; Times: 1
+	Query: "rhinochimaera atlantica" ; Times: 4
+	Query: "heterodon distance(location,geopoint(41.73033005046653,-83.49609375))<100000" ; Times: 1
+	Query: "mugil hospes" ; Times: 1
+	Query: "6629 institutioncode:KU tissue:1" ; Times: 1
+	Query: "genus:ictalurus mappable:1 tissue:1" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "belize" ; Times: 1
+	Query: "3926 institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU 890" ; Times: 1
+	Query: "decussatus" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<100000" ; Times: 1
+	Query: "catalognumber:10036 institutioncode:KU" ; Times: 1
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1524 download events in this period)
+Total number of records downloaded: 777 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 733
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 2
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-24 ; Times: 2
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+	Query: "Elasmobranchii media:1" ; Times: 2
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 322
+Total number of records retrieved from searches: 1618
+Number of download events that retrieved data from the resource: 25
+Total number of records downloaded: 1157
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 352
+Total number of records retrieved from searches: 1761
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 2033
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
