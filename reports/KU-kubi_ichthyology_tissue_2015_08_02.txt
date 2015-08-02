@@ -1,0 +1,111 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 107
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 19
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-08 ; Times: 21
+	Date: 2015-07-09 ; Times: 6
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 5
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "CAS 221892" ; Times: 2
+	Query: "Regalecus" ; Times: 6
+	Query: "picus tissue:1" ; Times: 1
+	Query: "usnm 334237" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "scutiger" ; Times: 1
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "canthigaster papua" ; Times: 2
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "erythrocles schlegelii" ; Times: 2
+	Query: "alepes kleinii" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "institutioncode:KU (5304)" ; Times: 2
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "diodon liturosus" ; Times: 1
+	Query: "ku 7425" ; Times: 1
+	Query: "155432" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "apogon holotaenia" ; Times: 4
+	Query: "Regalecus california" ; Times: 14
+	Query: "Regalecus SCRIPPS" ; Times: 1
+	Query: "KU 890" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 1
+	Query: "drepane punctata" ; Times: 1
+	Query: "tissue:1 distance(location,geopoint(32.84267363195431,-79.8046875))<100000" ; Times: 1
+	Query: "catalognumber:1238 institutioncode:KU tissue:1" ; Times: 1
+	Query: "(albatross) media:1" ; Times: 1
+	Query: "carangoides fulvoguttatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1084 download events in this period)
+Total number of records downloaded: 435 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 226
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Regalecus" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "regalecus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 381
+Total number of records retrieved from searches: 1725
+Number of download events that retrieved data from the resource: 32
+Total number of records downloaded: 1592
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 411
+Total number of records retrieved from searches: 1868
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 2468
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
