@@ -1,0 +1,80 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 51
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-24 ; Times: 7
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-22 ; Times: 2
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "corythoichthys amplexus" ; Times: 1
+	Query: "Tetrapturus" ; Times: 1
+	Query: "stateprovince:&#34;Tafea&#34; country:&#34;Vanuatu&#34;" ; Times: 1
+	Query: "30141" ; Times: 1
+	Query: "specificepithet:grandis genus:Fundulus tissue:1" ; Times: 1
+	Query: "breviceps type:specimen institutioncode:KU" ; Times: 1
+	Query: "Stereolepis" ; Times: 1
+	Query: "scarus ghobban seychelles" ; Times: 1
+	Query: "ptereleotris microlepis" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "haemulidae" ; Times: 1
+	Query: "Stereolepis gigas" ; Times: 2
+	Query: "parapriacanthus" ; Times: 2
+	Query: "cinerascens institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU 9939" ; Times: 1
+	Query: "lutjanus" ; Times: 1
+	Query: "fish 1890" ; Times: 1
+	Query: "Nocomis biguttatus" ; Times: 1
+	Query: "rachycentron ku" ; Times: 1
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "KU 9779" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "fasciatus type:specimen institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 751 download events in this period)
+Total number of records downloaded: 668
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "madagascar" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
