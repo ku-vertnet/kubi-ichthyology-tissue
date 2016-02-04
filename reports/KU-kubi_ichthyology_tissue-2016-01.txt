@@ -1,0 +1,108 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 242
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Syngnathidae tissue:1" ; Times: 4
+	Query: "cichlid" ; Times: 1
+	Query: "ku 5279" ; Times: 1
+	Query: "ku 28150" ; Times: 1
+	Query: "ku 5552" ; Times: 1
+	Query: "cm 4446" ; Times: 1
+	Query: "family:Eleotridae country:&#34;United States&#34;" ; Times: 1
+	Query: "morphological data" ; Times: 1
+	Query: "family:Lotidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "ku 5572" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Synodus doaki" ; Times: 2
+	Query: "fishes" ; Times: 8
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "cercamia eremia" ; Times: 2
+	Query: "catalognumber:8850 institutioncode:KU" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "KU 217423" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "ku 1703" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 507 download events in this period)
+Total number of records downloaded: 2703
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
