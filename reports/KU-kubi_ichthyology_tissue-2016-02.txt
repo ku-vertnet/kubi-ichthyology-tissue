@@ -1,0 +1,112 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 364
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 28
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: United Arab Emirates ; Times: 2
+	Country: Russia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-08 ; Times: 12
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-23 ; Times: 7
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-27 ; Times: 3
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-06 ; Times: 8
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "30149" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Carcharhinidae" ; Times: 1
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "Ku 41047" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 1
+	Query: "louisiana union" ; Times: 4
+	Query: "Sebastes diploproa" ; Times: 1
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "KU 217429" ; Times: 1
+	Query: "toxotes tissue:1" ; Times: 1
+	Query: "MCZ 5284" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Jordania zonope" ; Times: 1
+	Query: "victoria county" ; Times: 1
+	Query: "country:&#34;Mexico&#34; media:1 tissue:1" ; Times: 1
+	Query: "CARCHARHINUS ACRONOTUS" ; Times: 1
+	Query: "Chlorurus sordidus tissue:1" ; Times: 1
+	Query: "Stereolepis gigas" ; Times: 1
+	Query: "country:&#34;ethiopia&#34; tissue:1" ; Times: 2
+	Query: "Atractoscion nobilis" ; Times: 1
+	Query: "Sebastes maliger" ; Times: 1
+	Query: "fowleria cas 217407" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "sphyrna" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "KU 217430" ; Times: 2
+	Query: "parapriacanthus usnm" ; Times: 2
+	Query: "amblyopsis" ; Times: 1
+	Query: "fishes" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "cercamia cas" ; Times: 5
+	Query: "Sebastes miniatus" ; Times: 1
+	Query: "8495 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Sebastes paucispinis" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "anomala tissue:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 4
+	Query: "8646 institutioncode:KU tissue:1" ; Times: 1
+	Query: "recordedby:scott institutioncode:KU" ; Times: 1
+	Query: "Rhacochilus toxotes" ; Times: 1
+	Query: "cercamia eremia cas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 512 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "amia calva" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "tissue:1" ; Times: 1
+
+
+End of report.
