@@ -1,0 +1,132 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 422
+Number of records retrieved in searches: 3687
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 407
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 392
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 7
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ecsenius cas" ; Times: 1
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 82
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 5
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 10
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 10
+	Query: "KU 3804" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "191 belize" ; Times: 1
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "country:&#34;China&#34;" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "specificepithet:breviceps genus:Larimus" ; Times: 1
+	Query: "MCZ 7430" ; Times: 2
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 9
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "specificepithet:elongatus genus:Menticirrhus" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "genus:Mola" ; Times: 3
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 17
+	Query: "specificepithet:corvinaeformis genus:Pomadasys" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "pseudocheilinus tetrataenia" ; Times: 1
+	Query: "Gigantactis" ; Times: 1
+	Query: "specificepithet:averruncus genus:Kathetostoma" ; Times: 1
+	Query: "specificepithet:pinnimaculatus genus:Bagre" ; Times: 2
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "specificepithet:delicatissima genus:Anchoa" ; Times: 2
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "schomburgki" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "specificepithet:macracanthus genus:Pomadasys" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "Andalusia" ; Times: 1
+	Query: "novaculichthys]" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 3
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "POLYDACTYLUS VIRGINICUS" ; Times: 2
+	Query: "catalognumber:9960 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "27097" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "specificepithet:kessleri genus:Notarius" ; Times: 4
+	Query: "POLYDACTYLUS OCTONEMUS" ; Times: 4
+	Query: "specificepithet:auricilla genus:Pristipomoides" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1052 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Meleagris" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
