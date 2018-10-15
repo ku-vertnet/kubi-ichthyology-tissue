@@ -1,0 +1,200 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 1378
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 163
+	Country: Mexico ; Times: 49
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 19
+	Date: 2018-02-20 ; Times: 15
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-26 ; Times: 5
+	Date: 2018-02-19 ; Times: 19
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-22 ; Times: 30
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-23 ; Times: 7
+	Date: 2018-02-06 ; Times: 22
+	Date: 2018-02-05 ; Times: 94
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Acanthurus guttatus mappable:1" ; Times: 2
+	Query: "Prionurus maculatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;polymixia lowei&#34;" ; Times: 1
+	Query: "Rivulidae" ; Times: 5
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "genus:Myctophum hastissue:1" ; Times: 1
+	Query: "ku 6623" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "order:Cyprinodontiformes hastissue:1" ; Times: 4
+	Query: "Zebrasoma desjardinii" ; Times: 2
+	Query: "catalognumber:1276 institutioncode:KU" ; Times: 1
+	Query: "MCZ 2070" ; Times: 1
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "27887 institutioncode:KU" ; Times: 2
+	Query: "Zebrasoma desjardinii mappable:1" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Zebrasoma xanthurum" ; Times: 1
+	Query: "catalognumber:1273 institutioncode:KU" ; Times: 2
+	Query: "order:Myctophiformes hastissue:1" ; Times: 1
+	Query: "CAS 217432" ; Times: 6
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Acanthurus leucocheilus mappable:1" ; Times: 1
+	Query: "sand eels" ; Times: 2
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "datasets" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 2
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "(Pseudochromidae) hastissue:1" ; Times: 4
+	Query: "distance(location,geopoint(44.0001288545,-95.653079058))&lt;21078" ; Times: 4
+	Query: "catalognumber:4911 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:COLLIEI genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 3
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "(pholidichthys) hastissue:1" ; Times: 1
+	Query: "latimeriidae" ; Times: 1
+	Query: "Prionurus maculatus" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace hastissue:1" ; Times: 1
+	Query: "country:&#34;Belize&#34; hastissue:1" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "Stiphodon percnopterygionus mappable:1" ; Times: 1
+	Query: "catalognumber:1272 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:luciae institutioncode:KU hastissue:1" ; Times: 1
+	Query: "rainbow darter" ; Times: 1
+	Query: "catalognumber:9507 institutioncode:KU" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "Newton 1868" ; Times: 1
+	Query: "maulisia mauli" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "Sphyrna lewini" ; Times: 5
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "CAS 217432." ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "einara" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 16
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "catalognumber:1274 institutioncode:KU" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "family:Myctophidae hastissue:1" ; Times: 1
+	Query: "&#34;Micropterus dolomieu&#34; hastissue:1" ; Times: 1
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "genus:Amblygobius hastissue:1" ; Times: 2
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 2
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "catalognumber:1275 institutioncode:KU" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 2
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "&#34;esox lucius&#34; hastissue:1" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "Ctenochaetus truncatus" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "stylephorus chordatus" ; Times: 1
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Ku 217430" ; Times: 1
+	Query: "Ku 217431" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 2
+	Query: "Hydrolagus affinis" ; Times: 1
+	Query: "psammogobius biocellatus" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "Acanthurus leucocheilus" ; Times: 1
+	Query: "acipenseriformes" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Ctenopharyngodon idella hastissue:1" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "catalognumber:1269 institutioncode:KU" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1892 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.
