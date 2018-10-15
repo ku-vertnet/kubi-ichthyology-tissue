@@ -1,0 +1,84 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 148
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 59
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 58
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 2
+	Query: "Parupeneus procerigena" ; Times: 1
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "(marmorata) year &gt;= 1992 month &gt;= 8" ; Times: 1
+	Query: "Parupeneus macronema" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "8098 institutioncode:KU" ; Times: 1
+	Query: "Upeneus heemstra mappable:1" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 1
+	Query: "catalognumber:8098 institutioncode:KU" ; Times: 1
+	Query: "Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "Mulloidichthys dentatus" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "catalognumber:8087 institutioncode:KU" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 3
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Parupeneus ciliatus" ; Times: 1
+	Query: "Parupeneus macronema mappable:1" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 2
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus sp. 1" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Upeneus japonicus" ; Times: 1
+	Query: "Parupeneus sp. 1 mappable:1" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 4
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Pseudupeneus grandisquamis" ; Times: 1
+	Query: "Parupeneus pleurostigma" ; Times: 1
+	Query: "Parupeneus rubescens" ; Times: 2
+	Query: "mcz 9902" ; Times: 1
+	Query: "Mulloidichthys vanicolensis" ; Times: 2
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 3
+	Query: "Upeneus heemstra" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1101 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+
+
+End of report.
