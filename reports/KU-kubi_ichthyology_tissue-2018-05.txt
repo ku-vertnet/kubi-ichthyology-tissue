@@ -1,0 +1,111 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 890
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Morocco ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 5
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 6
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-24 ; Times: 15
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-19 ; Times: 5
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-29 ; Times: 5
+	Date: 2018-05-10 ; Times: 5
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-25 ; Times: 10
+	Date: 2018-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 10036" ; Times: 2
+	Query: "KU 28183" ; Times: 1
+	Query: "distance(location,geopoint(43.7498440531908,-96.162771894612))&lt;12275" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "Pseudochromidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "Atherinidae year &gt;= 1995 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.0001288545,-95.653079058))&lt;21078" ; Times: 2
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "stateprovince:&#34;maine&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "KU 5932" ; Times: 1
+	Query: "catalognumber:7927 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "ku 8053" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "typhlichthys" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "rainbow darter" ; Times: 2
+	Query: "ku 10246" ; Times: 1
+	Query: "KU 10417" ; Times: 1
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:epinephelus hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "Neotrygon" ; Times: 1
+	Query: "distance(location,geopoint(43.1568148048088,-94.9628162599623))&lt;22978" ; Times: 1
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 2
+	Query: "ku 14146" ; Times: 1
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "Atherinidae hastissue:1" ; Times: 2
+	Query: "KU 5929" ; Times: 1
+	Query: "ku 9432" ; Times: 1
+	Query: "Melanotaeniidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "Albulidae year &gt;= 1992 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "KU 5079" ; Times: 2
+	Query: "leucogaster KU" ; Times: 2
+	Query: "ku 10258" ; Times: 1
+	Query: "KU 7250" ; Times: 2
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 44
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "morone americana" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "percina" ; Times: 1
+
+
+End of report.
