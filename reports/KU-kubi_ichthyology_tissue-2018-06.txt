@@ -1,0 +1,131 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 197
+Number of records retrieved in searches: 754
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 191
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 50
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 94
+	Date: 2018-06-20 ; Times: 23
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 5929" ; Times: 3
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "distance(location,geopoint(43.7498440531908,-96.162771894612))&lt;12275" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Prionurus maculatus" ; Times: 2
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Prionurus maculatus mappable:1" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "gastrophysus vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "Zebrasoma desjardinii" ; Times: 3
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "cyprinodontiformes order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "KU 5937" ; Times: 3
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "plectranthias winniensis bpbm" ; Times: 1
+	Query: "Zebrasoma desjardinii mappable:1" ; Times: 3
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "cyprinodontidae hastissue:1" ; Times: 3
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "sphoeroides nephelus vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "KU 727" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "catalognumber:10218 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:KU" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Acanthurus leucocheilus mappable:1" ; Times: 3
+	Query: "KU 5932" ; Times: 2
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "sphoeroides maculatus vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "UMass F 10887" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "cyprinodontiformes cyprinodon order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "azurina hirundo" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Acanthurus leucocheilus" ; Times: 3
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 2
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "gadiformes hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1169 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+
+
+End of report.
