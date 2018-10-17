@@ -1,0 +1,143 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 309
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 90
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-27 ; Times: 54
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-30 ; Times: 7
+	Date: 2018-08-31 ; Times: 4
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 10
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-01 ; Times: 6
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "ogcocephalus hastissue:1" ; Times: 4
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "specificepithet:aurantiaca genus:Percina stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 2
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "1435 KU" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "KU 8132" ; Times: 2
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "specificepithet:pardalis genus:Cantherhines" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Paracanthocobitis" ; Times: 3
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "7066 KU" ; Times: 2
+	Query: "specificepithet:cyanomos genus:Neopomacentrus" ; Times: 1
+	Query: "Xanthichthys mento" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "KU-41059" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "catalognumber:9484 institutioncode:KU" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "KU 6517" ; Times: 3
+	Query: "trilineatus institutioncode:KU" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Sufflamen fraenatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 3
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "Melichthys indicus" ; Times: 1
+	Query: "Sufflamen fraenatum" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Sufflamen albicaudatum" ; Times: 1
+	Query: "KU 7066" ; Times: 3
+	Query: "9832 KU" ; Times: 1
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "Rhinecanthus assasi" ; Times: 1
+	Query: "Rhinecanthus lunula" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Balistes punctatus" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 3
+	Query: "KU 9612" ; Times: 1
+	Query: "cetomimidae" ; Times: 2
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 3
+	Query: "Odonus niger" ; Times: 1
+	Query: "Cirrhilabrus jordani" ; Times: 1
+	Query: "specificepithet:cirrhifer genus:Stephanolepis" ; Times: 2
+	Query: "Sufflamen fraenatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1416 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "ogcocephalus hastissue:1" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "country:&#34;Philippines&#34; institutioncode:KU" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+
+
+End of report.
