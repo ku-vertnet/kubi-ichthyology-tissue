@@ -1,0 +1,101 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 243
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 4
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-14 ; Times: 11
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-01 ; Times: 12
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "(Sufflamen) hasmedia:1" ; Times: 3
+	Query: "29884" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "genus:Lycenchelys year &gt;= 1900 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 12
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "Hypophthalmichthys" ; Times: 1
+	Query: "ku 5862" ; Times: 1
+	Query: "6505 KU" ; Times: 1
+	Query: "genus:Bothrocara hastissue:1" ; Times: 2
+	Query: "4744 KU" ; Times: 1
+	Query: "genus:Lycodapus hastissue:1" ; Times: 3
+	Query: "6070 KU" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "1456 KU" ; Times: 2
+	Query: "family:zoarcidae hastissue:1" ; Times: 2
+	Query: "KU 4600" ; Times: 1
+	Query: "1476 KU" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "3631 ku" ; Times: 1
+	Query: "chromis vntype:specimen genus:chromis hastissue:1" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "Ophidion scrippsae" ; Times: 2
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "(sufflamen) hasmedia:1" ; Times: 1
+	Query: "catalognumber:8330 institutioncode:KU" ; Times: 1
+	Query: "county:&#34;Patrick&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "catalognumber:2375 institutioncode:KU" ; Times: 2
+	Query: "KU 8563" ; Times: 1
+	Query: "genus:Lycenchelys hastissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 977 download events in this period)
+Total number of records downloaded: 100
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "chromis vntype:specimen genus:chromis hastissue:1" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
