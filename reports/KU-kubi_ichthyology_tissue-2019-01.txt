@@ -1,0 +1,85 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 37
+	Country: United States ; Times: 25
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 7
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 13
+	Date: 2019-01-31 ; Times: 12
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-30 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "ogcocephalus hastissue:1" ; Times: 3
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "KU 217352" ; Times: 2
+	Query: "vanuatu hastissue:1" ; Times: 1
+	Query: "Polyprion americanus mappable:1" ; Times: 2
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 4
+	Query: "rhina" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "rhynchobatus" ; Times: 2
+	Query: "seriola rivoliana" ; Times: 1
+	Query: "KU 163033" ; Times: 1
+	Query: "Amblyraja radiata mappable:1" ; Times: 4
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "raja rhina" ; Times: 3
+	Query: "KU 8886" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "anomalus institutioncode:KU" ; Times: 1
+	Query: "rhinobatos schlegelii" ; Times: 5
+	Query: "xenicus" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "6502 institutioncode:KU" ; Times: 2
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "sand fly" ; Times: 1
+	Query: "Atherina boyeri mappable:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "county:&#34;Skamania&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "(nanus) institutioncode:KU" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 4
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "actinopterygii" ; Times: 1
+
+
+End of report.
