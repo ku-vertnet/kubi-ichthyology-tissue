@@ -1,0 +1,152 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 825
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 5
+	Country: United States ; Times: 45
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Norway ; Times: 30
+	Country: Brazil ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 36
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 27
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 5
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 8
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-04 ; Times: 4
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-03 ; Times: 6
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 11
+	Date: 2019-04-09 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Emblemaria pandionis mappable:1" ; Times: 1
+	Query: "squalus acanthias" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 6
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 7
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Amblyraja radiata mappable:1" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "ku 5791" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "ku 10756" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "psychrolutes phrictus" ; Times: 1
+	Query: "Emblemaria pandionis" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "Cynoscion leiarchus mappable:1" ; Times: 1
+	Query: "flavicauda" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "MCZ 3187" ; Times: 1
+	Query: "KU 10186" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Sebastolobus altivelis" ; Times: 2
+	Query: "ceratias" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "ku 8886" ; Times: 2
+	Query: "5143 vntype:specimen institutioncode:KU" ; Times: 2
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "Micromesistius poutassou mappable:1" ; Times: 5
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+	Query: "Stathmonotus stahli" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "poromitra crassiceps" ; Times: 1
+	Query: "(29797) institutioncode:KU" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "Hypanus guttatus mappable:1" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "catalognumber:5657 institutioncode:KU" ; Times: 2
+	Query: "28459" ; Times: 1
+	Query: "KU 5143" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "Haemulopsis corvinaeformis mappable:1" ; Times: 1
+	Query: "specificepithet:radiata genus:amblyraja" ; Times: 1
+	Query: "Stathmonotus stahli mappable:1" ; Times: 1
+	Query: "Neoclinus blanchardi mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "Lucayablennius zingaro" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Lucayablennius zingaro mappable:1" ; Times: 1
+	Query: "adaptive radiation" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "catalognumber:9913 institutioncode:KU" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "institutioncode:ku 4743" ; Times: 3
+	Query: "KU 6933" ; Times: 1
+	Query: "institutioncode:ku 161933" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Porogadus miles" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1263 download events in this period)
+Total number of records downloaded: 226
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 2
+	Country: France ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Actinopterygii" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.
