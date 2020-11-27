@@ -1,0 +1,278 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 881
+Number of records retrieved in searches: 4275
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 807
+	Country: Ireland ; Times: 5
+	Country: Japan ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-03 ; Times: 59
+	Date: 2020-04-07 ; Times: 180
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-13 ; Times: 25
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 19
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 8
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-21 ; Times: 95
+	Date: 2020-04-01 ; Times: 5
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 460
+	Date: 2020-04-09 ; Times: 3
+	Date: 2020-04-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:11092 institutioncode:KU" ; Times: 2
+	Query: "Pseudopleuronectes americanus" ; Times: 5
+	Query: "Crystallaria asprella" ; Times: 5
+	Query: "Lepidopsetta bilineata" ; Times: 5
+	Query: "Siganus argenteus" ; Times: 5
+	Query: "Esox lucius" ; Times: 10
+	Query: "Cottus carolinae" ; Times: 10
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Brevoortia tyrannus" ; Times: 4
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Takifugu poecilonotus" ; Times: 5
+	Query: "lateolabrax japonicus" ; Times: 1
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Fundulus grandis" ; Times: 4
+	Query: "Notropis telescopus" ; Times: 2
+	Query: "Samariscus filipectoralis" ; Times: 1
+	Query: "scientificname:(Lythrurus lirus OR Notropis lirus OR Nototropis lirus) country:United States mappable:1" ; Times: 1
+	Query: "Lepomis punctatus" ; Times: 6
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "phylum:chordata country:mozambique" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Merluccius albidus" ; Times: 6
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Rhadinesthes decimus" ; Times: 1
+	Query: "scientificname:(Luxilus cardinalis OR Notropis cardinalis) country:United States mappable:1" ; Times: 1
+	Query: "caffrogobius" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 5
+	Query: "Hippoglossoides platessoides" ; Times: 5
+	Query: "Caesio Caerulaurea" ; Times: 3
+	Query: "Myoxocephalus octodecemspinosus" ; Times: 8
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "Hippoglossoides elassodon" ; Times: 5
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Metaloricaria nijsseni" ; Times: 4
+	Query: "Limanda aspera" ; Times: 5
+	Query: "scientificname:(Ariopsis felis OR Arius felis OR Galeichthys felis) country:United States mappable:1" ; Times: 1
+	Query: "Siganus sutor" ; Times: 5
+	Query: "Takifugu porphyreus" ; Times: 5
+	Query: "Crenicichla lepidota" ; Times: 8
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Gymnocephalus cernua" ; Times: 11
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Takifugu pardalis" ; Times: 5
+	Query: "Takifugu niphobles" ; Times: 5
+	Query: "Decapterus maruadsi" ; Times: 5
+	Query: "scientificname:(Amblyopsis rosae) country:United States mappable:1" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 2
+	Query: "Gasterosteus wheatlandi" ; Times: 7
+	Query: "Cynoscion nebulosus" ; Times: 3
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "Isopsetta isolepis" ; Times: 5
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Engraulis eurystole" ; Times: 4
+	Query: "Planiliza macrolepis" ; Times: 8
+	Query: "Decapterus kurroides" ; Times: 5
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "Triglops scepticus" ; Times: 5
+	Query: "scientificname:(Macrhybopsis meeki OR Hybopsis meeki) country:United States mappable:1" ; Times: 1
+	Query: "Pellona flavipinnis" ; Times: 8
+	Query: "specificepithet:dembeensis" ; Times: 1
+	Query: "scientificname:(Lythrurus ardens OR Notropis ardens) country:United States mappable:1" ; Times: 1
+	Query: "Trachurus symmetricus" ; Times: 5
+	Query: "Samariscus" ; Times: 4
+	Query: "Pseudomugil gertrudae mappable:1" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 6
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Petromyzon marinus" ; Times: 2
+	Query: "scientificname:(Ammocrypta bifascia) country:United States mappable:1" ; Times: 1
+	Query: "Schizothorax richardsonii" ; Times: 4
+	Query: "nepal" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 5
+	Query: "Scomberomorus maculatus" ; Times: 5
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "Merluccius productus" ; Times: 6
+	Query: "scientificname:(Fundulus lineolatus) country:United States mappable:1" ; Times: 2
+	Query: "Uraspis secunda" ; Times: 5
+	Query: "scientificname:(Dormitator maculatus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Radulinus asprellus" ; Times: 5
+	Query: "Labeobarbus intermedius" ; Times: 9
+	Query: "Chrosomus erythrogaster" ; Times: 7
+	Query: "Dichotomyctere fluviatilis" ; Times: 5
+	Query: "USNM 327994" ; Times: 2
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Parastromateus niger" ; Times: 5
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Carangoides ferdau" ; Times: 5
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Trachurus japonicus" ; Times: 5
+	Query: "Sander vitreus" ; Times: 4
+	Query: "scientificname:(Etheostoma tuscumbia) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis bifrenatus) country:United States mappable:1" ; Times: 1
+	Query: "Cynoscion arenarius" ; Times: 3
+	Query: "USNM 327995" ; Times: 1
+	Query: "KU 10706" ; Times: 2
+	Query: "217429" ; Times: 1
+	Query: "Siganus spinus" ; Times: 5
+	Query: "Alepes kleinii" ; Times: 5
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Takifugu xanthopterus" ; Times: 5
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Myoxocephalus stelleri" ; Times: 5
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Scomberomorus commerson" ; Times: 5
+	Query: "Limanda limanda" ; Times: 5
+	Query: "Salvelinus leucomaenis" ; Times: 5
+	Query: "Nesiarchus nasutus" ; Times: 5
+	Query: "Pimelodella cristata" ; Times: 9
+	Query: "Glyptocephalus zachirus" ; Times: 5
+	Query: "Takifugu rubripes" ; Times: 5
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "scientificname:(Ammocrypta meridiana) country:United States mappable:1" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Xenentodon cancila" ; Times: 5
+	Query: "Leiostomus xanthurus" ; Times: 6
+	Query: "scientificname:(Typhlichthys subterraneus) country:United States mappable:1" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Guyanancistrus brevispinis" ; Times: 6
+	Query: "Pseudomugil signifer mappable:1" ; Times: 1
+	Query: "scientificname:(Percina lenticula) country:United States mappable:1" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 5
+	Query: "scientificname:(Etheostoma kennicotti) country:United States mappable:1" ; Times: 1
+	Query: "Pleuronectes quadrituberculatus" ; Times: 5
+	Query: "catalognumber:5190 institutioncode:KU" ; Times: 1
+	Query: "Cottunculus thomsonii" ; Times: 5
+	Query: "Triodon macropterus" ; Times: 6
+	Query: "Nannacara anomala" ; Times: 3
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "scientificname:(Notropis heterodon) country:United States mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Siganus fuscescens" ; Times: 5
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "scientificname:(Ammocrypta clara) country:United States mappable:1" ; Times: 1
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 5
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Merluccius bilinearis" ; Times: 6
+	Query: "Gnathonemus petersii" ; Times: 9
+	Query: "scientificname:(Elassoma evergladei) country:United States mappable:1" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 5
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Photopectoralis bindus" ; Times: 5
+	Query: "Engraulis mordax" ; Times: 4
+	Query: "Gerres equulus" ; Times: 5
+	Query: "Schizothorax nepalensis" ; Times: 4
+	Query: "KU 1029" ; Times: 1
+	Query: "Bagrus docmak" ; Times: 4
+	Query: "scientificname:(Nocomis asper) country:United States mappable:1" ; Times: 1
+	Query: "Sander canadensis" ; Times: 11
+	Query: "Microcottus sellaris" ; Times: 5
+	Query: "Gadus chalcogrammus" ; Times: 5
+	Query: "Pisodonophis boro" ; Times: 5
+	Query: "34276" ; Times: 1
+	Query: "KU 10975" ; Times: 1
+	Query: "scientificname:(Heterandria formosa) country:United States mappable:1" ; Times: 2
+	Query: "oakmulgee" ; Times: 2
+	Query: "scientificname:(Hybopsis hypsinotus OR Notropis hypsinotus) country:United States mappable:1" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 5
+	Query: "catalognumber:1021 institutioncode:KU" ; Times: 2
+	Query: "Krobia guianensis" ; Times: 3
+	Query: "Characidium zebra" ; Times: 6
+	Query: "26884" ; Times: 2
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Atule mate" ; Times: 5
+	Query: "Pleuronectes platessa" ; Times: 5
+	Query: "Aplodinotus grunniens" ; Times: 6
+	Query: "scientificname:(Ctenogobius boleosoma OR Gobionellus boleosoma) country:United States mappable:1" ; Times: 1
+	Query: "(10009)" ; Times: 1
+	Query: "Agamyxis pectinifrons" ; Times: 5
+	Query: "scientificname:(Etheostoma davisoni) country:United States mappable:1" ; Times: 1
+	Query: "Thaleichthys pacificus" ; Times: 5
+	Query: "catalognumber:5143 institutioncode:KU" ; Times: 1
+	Query: "Phenacostethus smithi mappable:1" ; Times: 2
+	Query: "Parophrys vetulus" ; Times: 5
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Microstomus pacificus" ; Times: 5
+	Query: "Anarhichas lupus" ; Times: 4
+	Query: "Hypophthalmichthys molitrix" ; Times: 9
+	Query: "scientificname:(Etheostoma phytophilum) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "pardus" ; Times: 1
+	Query: "Eleutheronema rhadinum" ; Times: 5
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "Chelon richardsonii" ; Times: 3
+	Query: "Harpadon nehereus" ; Times: 3
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "Anchoa hepsetus" ; Times: 4
+	Query: "scientificname:(Cyprinella zanema) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:10772 institutioncode:KU" ; Times: 2
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "scientificname:(Fundulus sciadicus) country:United States mappable:1" ; Times: 1
+	Query: "Carangoides fulvoguttatus" ; Times: 5
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "scientificname:(Fundulus dispar) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Lepomis gibbosus" ; Times: 6
+	Query: "scientificname:(Macrhybopsis hyostoma) country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1171 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-08 ; Times: 4
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Characidium" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+
+
+End of report.
