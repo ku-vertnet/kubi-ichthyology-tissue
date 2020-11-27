@@ -1,0 +1,117 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 41
+	Country: Ireland ; Times: 6
+	Country: Japan ; Times: 4
+	Country: Hong Kong ; Times: 28
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 16
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 5
+	Date: 2020-05-28 ; Times: 22
+	Date: 2020-05-02 ; Times: 3
+	Date: 2020-05-19 ; Times: 13
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "USNM B-3611" ; Times: 1
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 1
+	Query: "KU 815" ; Times: 1
+	Query: "Sufflamen fraenatum mappable:1" ; Times: 1
+	Query: "catalognumber:6679 institutioncode:KU" ; Times: 2
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "KUBI 1607" ; Times: 2
+	Query: "KUBI 86237" ; Times: 1
+	Query: "MCZ R-9570" ; Times: 1
+	Query: "KUBI 1608" ; Times: 4
+	Query: "upeneus heemstra" ; Times: 1
+	Query: "halidesmus scapularis" ; Times: 2
+	Query: "catalognumber:7140 institutioncode:KU" ; Times: 3
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "Samariscus filipectoralis" ; Times: 4
+	Query: "161669" ; Times: 1
+	Query: "225043" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "KU 8577" ; Times: 2
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "KUBI 1437" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "evermannella balbo" ; Times: 1
+	Query: "KUBI 1612" ; Times: 13
+	Query: "KUBI 1613" ; Times: 3
+	Query: "KUBI 1610" ; Times: 2
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "evermannella indica" ; Times: 1
+	Query: "catalognumber:7139 institutioncode:KU" ; Times: 1
+	Query: "217466 institutioncode:KU" ; Times: 1
+	Query: "KUBI 1609" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "Cyema atrum" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:5605 institutioncode:KU" ; Times: 2
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 1
+	Query: "cas 2382" ; Times: 1
+	Query: "Cynoscion hasmedia:1" ; Times: 2
+	Query: "217456 institutioncode:KU" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "catalognumber:5336 institutioncode:KU" ; Times: 1
+	Query: "fieldnumber:GTS" ; Times: 1
+	Query: "iracundus signifer" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1106 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+
+
+End of report.
