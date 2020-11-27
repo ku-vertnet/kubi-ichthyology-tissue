@@ -1,0 +1,122 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Japan ; Times: 12
+	Country: Taiwan ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: United Kingdom ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-02 ; Times: 8
+	Date: 2020-03-31 ; Times: 15
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 14
+	Date: 2020-03-18 ; Times: 6
+	Date: 2020-03-19 ; Times: 8
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-06 ; Times: 12
+	Date: 2020-03-07 ; Times: 5
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "Monognathus" ; Times: 1
+	Query: "catalognumber:1576 institutioncode:KU" ; Times: 1
+	Query: "Hipposcarus longiceps mappable:1" ; Times: 1
+	Query: "catalognumber:9895 institutioncode:KU" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "167705" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "catalognumber:2008 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Percina lenticula" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "catalognumber:1201 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "(217271)" ; Times: 1
+	Query: "8461 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Chlorurus microrhinos mappable:1" ; Times: 3
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Leptoscarus vaigiensis mappable:1" ; Times: 1
+	Query: "Chlorurus sordidus mappable:1" ; Times: 1
+	Query: "Scarus niger mappable:1" ; Times: 1
+	Query: "ku 163303" ; Times: 1
+	Query: "Rhadinocentrus ornatus mappable:1" ; Times: 1
+	Query: "5294 KU" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "catalognumber:1201 institutioncode:KU" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "Cetoscarus bicolor mappable:1" ; Times: 1
+	Query: "catalognumber:2008 institutioncode:KU" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "DM 429" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "ku 164246" ; Times: 1
+	Query: "prionotus alatus" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Atherina boyeri mappable:1" ; Times: 2
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "catalognumber:1425 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:8417 institutioncode:KU" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Macrhybopsis meeki" ; Times: 1
+	Query: "catalognumber:3984 institutioncode:KU" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "catalognumber:3816 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Atherinomorus vaigiensis mappable:1" ; Times: 1
+	Query: "Scarus altipinnis mappable:1" ; Times: 1
+	Query: "Craterocephalus honoriae mappable:1" ; Times: 2
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "specificepithet:alatus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Atherina presbyter mappable:1" ; Times: 2
+	Query: "catalognumber:1459 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:6651 institutioncode:KU" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "Scarus quoyi mappable:1" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sillago japonica" ; Times: 1
+
+
+End of report.
