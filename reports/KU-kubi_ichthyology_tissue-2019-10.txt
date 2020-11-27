@@ -1,0 +1,237 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 780
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 8
+	Country: United States ; Times: 100
+	Country: United Kingdom ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 5
+	Country: New Zealand ; Times: 162
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 40
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 69
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 95
+	Date: 2019-10-22 ; Times: 7
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 5
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-30 ; Times: 5
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 14
+	Date: 2019-10-15 ; Times: 22
+	Date: 2019-10-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Beringraja binoculata" ; Times: 2
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "Okamejei acutispina" ; Times: 1
+	Query: "Loxodon" ; Times: 1
+	Query: "Apristurus profundorum" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "KU 38662" ; Times: 1
+	Query: "Telatrygon zugei" ; Times: 2
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Coelorinchus caelorhincus" ; Times: 1
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "vitreus Sander" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Dipturus olseni" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "Diplacanthopoma" ; Times: 5
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "Hypanus say" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "Torpedo sinuspersici" ; Times: 1
+	Query: "Chimaera jordani" ; Times: 1
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "23763" ; Times: 1
+	Query: "Cantherhines dumerilii mappable:1" ; Times: 2
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "Okamejei hollandi" ; Times: 2
+	Query: "Myliobatis freminvillei" ; Times: 2
+	Query: "(1741) institutioncode:KU" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "(Latimeria) hastissue:1" ; Times: 2
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "Hemitrygon bennettii" ; Times: 1
+	Query: "Monacanthus tuckeri mappable:1" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Okamejei boesemani" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "Thamnaconus modestus mappable:1" ; Times: 2
+	Query: "Pseudobatos productus" ; Times: 2
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "USNM rostrata" ; Times: 2
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Squalus formosus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "Bathyraja minispinosa" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Aluterus heudelotii mappable:1" ; Times: 3
+	Query: "Beringraja" ; Times: 1
+	Query: "Meuschenia freycineti mappable:1" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Hypanus guttatus" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 3
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Amanses scopas mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Apristurus manis" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "Meuschenia trachylepis mappable:1" ; Times: 2
+	Query: "Bathyraja" ; Times: 1
+	Query: "Paraluteres prionurus mappable:1" ; Times: 2
+	Query: "catalognumber:10435 institutioncode:KU" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Bathyraja taranetzi" ; Times: 2
+	Query: "(Coelacanthiformes) hastissue:1" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Tetronarce californica" ; Times: 2
+	Query: "KU 5294" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Pervagor janthinosoma mappable:1" ; Times: 2
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "Eridacnis radcliffei" ; Times: 1
+	Query: "Apristurus herklotsi" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "&#34;Aristostomias tittmanni&#34;" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "Brachaluteres jacksonianus mappable:1" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Etmopterus splendidus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Leptostomias gladiator" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "ku 1342" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "chanos chanos vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "SP 9397" ; Times: 1
+	Query: "Leptostomias" ; Times: 1
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Stephanolepis cirrhifer" ; Times: 2
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "Bathyraja aleutica" ; Times: 2
+	Query: "Meuschenia flavolineata mappable:1" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Narke japonica" ; Times: 2
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "Stephanolepis cirrhifer mappable:1" ; Times: 8
+	Query: "ku 4686" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "vinciguerra" ; Times: 3
+	Query: "Galeus sauteri" ; Times: 2
+	Query: "Okamejei meerdervoortii" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Maculabatis gerrardi" ; Times: 2
+	Query: "Acanthaluteres vittiger mappable:1" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Rhinoptera jayakari" ; Times: 2
+	Query: "Urobatis jamaicensis" ; Times: 2
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "Apristurus kampae" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Urotrygon rogersi" ; Times: 1
+	Query: "Coelacanthiformes" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "Rajella bigelowi" ; Times: 2
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Loxodon macrorhinus" ; Times: 2
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Galeus atlanticus" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Simenchelys parasitica" ; Times: 1
+	Query: "Rhinochimaera atlantica" ; Times: 2
+	Query: "diplophos" ; Times: 2
+	Query: "Amblyraja jenseni" ; Times: 1
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "melanostomias melanops" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "LACM 1801" ; Times: 2
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "Neotrygon kuhlii" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+
+
+End of report.
