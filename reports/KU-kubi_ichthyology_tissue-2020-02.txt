@@ -1,0 +1,208 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 485
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Panama ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 34
+	Country: United States ; Times: 121
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-02 ; Times: 28
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-05 ; Times: 61
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-20 ; Times: 8
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-01 ; Times: 6
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-03 ; Times: 21
+	Date: 2020-02-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "ku 24382" ; Times: 1
+	Query: "KU and 5013" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "23722 institutioncode:KU" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "scientificname:Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Ku 217430" ; Times: 2
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 2
+	Query: "scientificname:(Percina cymatotaenia OR Etheostoma cymatotaenia) country:United States mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "caffrogobius" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "ku 217430" ; Times: 2
+	Query: "KU 5083" ; Times: 1
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "KU and 4113" ; Times: 1
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "Upeneus heemstra mappable:1" ; Times: 1
+	Query: "lophius americanus" ; Times: 3
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "Equetus punctatus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "KU and 5015" ; Times: 1
+	Query: "Hypanus say mappable:1" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "Bidenichthys" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 2
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "etheostoma phytophilum" ; Times: 4
+	Query: "scientificname:(Etheostoma cinereum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "KU 2978" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "Danaphos" ; Times: 1
+	Query: "catalognumber:1638 institutioncode:KU" ; Times: 2
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "specificepithet:mitratus hastissue:1" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "scientificname:Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "sulcatus" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 3
+	Query: "Ku 217429" ; Times: 2
+	Query: "KU 7020" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "hiodon alosoides KU 2537" ; Times: 1
+	Query: "scientificname:Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "KU 24382" ; Times: 1
+	Query: "29970 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "ku 4740" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "eridacnis" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "scientificname:Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "scientificname:Upeneus heemstra mappable:1" ; Times: 3
+	Query: "33720 institutioncode:KU" ; Times: 5
+	Query: "28195 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "KU 41867" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "Microdesmus" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "catalognumber:818 institutioncode:KU" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "hiodon alosoides KU 7840" ; Times: 1
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "indian rock park" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "scientificname:(Pimephales tenellus) country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1023 download events in this period)
+Total number of records downloaded: 218
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+
+
+End of report.
