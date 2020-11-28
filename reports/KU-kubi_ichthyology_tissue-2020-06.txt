@@ -1,0 +1,134 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 412
+Number of records retrieved in searches: 1297
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 375
+	Country: China ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-18 ; Times: 1
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 10
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-11 ; Times: 141
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-15 ; Times: 56
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 144
+	Date: 2020-06-17 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Monodactylus hastissue:1" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Planiliza macrolepis" ; Times: 12
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "snyderina yamanokami" ; Times: 1
+	Query: "Pisodonophis boro" ; Times: 6
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "family:batrachoididae hastissue:1" ; Times: 4
+	Query: "Esox lucius" ; Times: 8
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "Decapterus maruadsi" ; Times: 6
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "Takifugu poecilonotus" ; Times: 6
+	Query: "KU 25190" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "Photopectoralis bindus" ; Times: 6
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "lepidozygus tapeinosoma" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Lates japonicus" ; Times: 6
+	Query: "Epinephelus multinotatus" ; Times: 2
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "9610 KU" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Siganus sutor" ; Times: 6
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "Dormitator latifrons" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "10752 KU" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "meuschenia trachylepis" ; Times: 1
+	Query: "Dichotomyctere fluviatilis" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Takifugu rubripes" ; Times: 6
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "Eleutheronema rhadinum" ; Times: 6
+	Query: "catalognumber:1310 institutioncode:KU" ; Times: 1
+	Query: "macolor niger" ; Times: 1
+	Query: "Chelon richardsonii" ; Times: 6
+	Query: "Paratrypauchen microcephalus" ; Times: 9
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "Takifugu porphyreus" ; Times: 6
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "sebastes mentella" ; Times: 3
+	Query: "Salvelinus leucomaenis" ; Times: 6
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "5615 KU" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "Takifugu pardalis" ; Times: 6
+	Query: "Takifugu niphobles" ; Times: 6
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "paranthias furcifer" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Siganus spinus" ; Times: 6
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "Alepes kleinii" ; Times: 9
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Takifugu xanthopterus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 474 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sebastes mentella" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+
+
+End of report.
