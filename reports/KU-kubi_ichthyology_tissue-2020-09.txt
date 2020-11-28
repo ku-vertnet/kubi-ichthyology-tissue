@@ -1,0 +1,208 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 438
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 126
+	Country: United States ; Times: 11
+	Country: Ireland ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-16 ; Times: 33
+	Date: 2020-09-17 ; Times: 35
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-11 ; Times: 5
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 41
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Psenes pellucidus" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Evermannella balbo" ; Times: 1
+	Query: "Bathypterois dubius" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Aulopus filamentosus" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 1
+	Query: "Platax teira" ; Times: 1
+	Query: "Seriola fasciata" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Cheilopogon furcatus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "Lophotus lacepede" ; Times: 1
+	Query: "Argyropelecus hemigymnus" ; Times: 1
+	Query: "Ceratoscopelus maderensis" ; Times: 1
+	Query: "Terapon theraps" ; Times: 1
+	Query: "Priacanthus hamrur" ; Times: 1
+	Query: "Nemipterus japonicus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Lepidion lepidion" ; Times: 1
+	Query: "genus:lepidotrigla institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Synagrops japonicus" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "Epigonus telescopus" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Lestidiops jayakari" ; Times: 1
+	Query: "Myxine glutinosa" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "KU 5133" ; Times: 1
+	Query: "Phycis phycis" ; Times: 1
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "distance(location,geopoint(-31.01467057790442,-51.15260722384538))&lt;100000" ; Times: 1
+	Query: "Lobianchia gemellarii" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 1
+	Query: "genus:Pterygotrigla institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Regalecus glesne" ; Times: 1
+	Query: "Scorpaena scrofa" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Remora remora" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Bathypterois grallator" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Gephyroberyx darwinii" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "KU 5588" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Diplodus cervinus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Nezumia aequalis" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Zenopsis conchifer" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Ariosoma balearicum" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 1
+	Query: "Beryx splendens" ; Times: 2
+	Query: "Cyclothone braueri" ; Times: 1
+	Query: "Benthosema glaciale" ; Times: 1
+	Query: "specificepithet:punctatus genus:prionotus institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "Cubiceps capensis" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Chrysiptera brownriggii" ; Times: 1
+	Query: "genus:peristedion institutioncode:KU hastissue:1" ; Times: 1
+	Query: "catalognumber:4970 institutioncode:KU" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Paralepis coregonoides" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Hygophum hygomii" ; Times: 1
+	Query: "Notacanthus bonaparte" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "KU 4970" ; Times: 1
+	Query: "Tetrosomus gibbosus" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 1
+	Query: "Vinciguerria poweriae" ; Times: 1
+	Query: "Luvarus imperialis" ; Times: 1
+	Query: "catalognumber:9885 institutioncode:KU" ; Times: 1
+	Query: "Hyporhamphus affinis" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Benthocometes robustus" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "KU 10313" ; Times: 1
+	Query: "Chauliodus sloani" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "specificepithet:evolans genus:prionotus institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Schedophilus medusophagus" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "Sudis hyalina" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Microstoma microstoma" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "KU 10347" ; Times: 2
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "KU 5280" ; Times: 1
+	Query: "Mycteroperca tigris" ; Times: 1
+	Query: "Sarpa salpa" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "Nemichthys scolopaceus" ; Times: 1
+	Query: "Myctophum punctatum" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Zu cristatus" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "KU 7571" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 976 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "specificepithet:evolans genus:prionotus hastissue:1" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "curacao" ; Times: 2
+
+
+End of report.
