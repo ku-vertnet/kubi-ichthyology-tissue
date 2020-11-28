@@ -1,0 +1,145 @@
+Report for Institution Code KU, Resource kubi_ichthyology_tissue
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 477
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Honduras ; Times: 13
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Finland ; Times: 1
+	Country: France ; Times: 31
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 1
+	Country: Ireland ; Times: 6
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 8
+	Date: 2020-08-28 ; Times: 10
+	Date: 2020-08-19 ; Times: 11
+	Date: 2020-08-12 ; Times: 9
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 16
+	Date: 2020-08-26 ; Times: 15
+	Date: 2020-08-27 ; Times: 5
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-18 ; Times: 9
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-29 ; Times: 26
+	Date: 2020-08-21 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 327571" ; Times: 2
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "Caristius" ; Times: 1
+	Query: "KU 24381" ; Times: 1
+	Query: "KU 24382" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Foetorepus agassizii" ; Times: 3
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "diapterus peruvianus" ; Times: 7
+	Query: "25785" ; Times: 1
+	Query: "8243" ; Times: 1
+	Query: "Talismania bifurcata" ; Times: 2
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "family:Bagridae preparations:tissue" ; Times: 1
+	Query: "specificepithet:rubrirostris genus:Cataetyx" ; Times: 1
+	Query: "Cyprinella venusta vntype:specimen hastissue:1" ; Times: 1
+	Query: "Sebastes alutus" ; Times: 4
+	Query: "Acanthemblemaria greenfieldi" ; Times: 1
+	Query: "genus:Cetomimus" ; Times: 2
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "KU 10367" ; Times: 3
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "Acanthemblemaria spinosa" ; Times: 2
+	Query: "vntype:specimen specificepithet:elongatus genus:Cycleptus hastissue:1" ; Times: 2
+	Query: "venefica procera" ; Times: 1
+	Query: "Bajacalifornia megalops" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "Pollachius virens" ; Times: 2
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Centropomus ensiferus" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "KU 7379" ; Times: 3
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 12
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Trichopsetta ventralis 5085" ; Times: 1
+	Query: "Russia 1889" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 7
+	Query: "specificepithet:lugubris genus:Chascanopsetta" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 1
+	Query: "Ariomma bondi" ; Times: 1
+	Query: "Alepocephalus australis" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "Ariopsis seemanni" ; Times: 1
+	Query: "Anableps dowei" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 4
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "specificepithet:craneae genus:Cetomimus" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "family:Cyprinidae hasmedia:1" ; Times: 4
+	Query: "specificepithet:agassizii genus:Alepocephalus" ; Times: 1
+	Query: "Sebastes alutus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Alepocephalus agassizii" ; Times: 1
+	Query: "Atherinella pachylepis" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "caranx ruber" ; Times: 1
+	Query: "narke" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Gadus morhua" ; Times: 2
+	Query: "genus:Periophthalmus" ; Times: 2
+	Query: "Merlangius merlangus" ; Times: 3
+	Query: "Istiophorus platypterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 5001
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+
+
+End of report.
